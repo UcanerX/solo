@@ -99,8 +99,9 @@ public class MetaWeblogAPI {
     private static final String METHOD_GET_CATEGORIES = "metaWeblog.getCategories";
 
     /**
-     * Method name: "metaWeblog.getRecentPosts".
-     */
+     *测试测试测试测试
+     *
+     **/
     private static final String METHOD_GET_RECENT_POSTS = "metaWeblog.getRecentPosts";
 
     /**
