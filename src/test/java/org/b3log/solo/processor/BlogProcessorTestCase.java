@@ -71,7 +71,7 @@ public class BlogProcessorTestCase extends AbstractTestCase {
         when(request.getServletContext()).thenReturn(mock(ServletContext.class));
         when(request.getRequestURI()).thenReturn("/blog/info");
         when(request.getMethod()).thenReturn("GET");
-
+//1111
         final MockDispatcherServlet dispatcherServlet = new MockDispatcherServlet();
         dispatcherServlet.init();
 
